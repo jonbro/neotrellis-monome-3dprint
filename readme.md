@@ -2,6 +2,8 @@
 
 *Warning!!* Because this enclosure is printed in two parts, it will not have the stiffness or stability of a laser cut enclosure. I'm providing these files for folks that have easy access to a 3d printer.
 
+*Additional warning* the "full" versions here are untested because I don't have a printer to test them on. These are even more at your own risk than the other ones.
+
 ![photo](photo.jpg)
 
 ## Additional hardware
